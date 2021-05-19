@@ -1,2 +1,2 @@
 # client-blog 
- First client blog craeted for Tracy
+ First client blog created
